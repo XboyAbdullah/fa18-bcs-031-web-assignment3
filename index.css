@@ -1,0 +1,26 @@
+.recipe {
+  border-bottom: 3px dashed blue;
+  margin-bottom: 8px;
+}
+
+#delbtn {
+  float: right;
+}
+#editbtn {
+  background-color: yellow;
+  color: black;
+  float: right;
+}
+#err {
+  color: red;
+}
+#recipes {
+  padding-top: 20px;
+  background-color: #a3e4d7;
+}
+#heading {
+  padding-top: 40px;
+}
+#AddRecipe {
+  background-color: #d7bde2;
+}
